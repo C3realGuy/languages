@@ -156,7 +156,7 @@ $txt['help_time_format'] = '
 	<em>* Grau hinterlegte Zeichen funktionieren nicht auf Windows-basierten Servern.</em>';
 
 $txt['help_live_news'] = '
-	Diese Box zeigt die neuesten ANkündigungen von <a href="http://wedge.org/" target="_blank" class="new_win">wedge.org</a> an.
+	Diese Box zeigt die neuesten Ankündigungen von <a href="http://wedge.org/" target="_blank" class="new_win">wedge.org</a> an.
 	Du solltest hin und wieder mal nachschauen, ob Updates oder wichtige Ankündigungen verfügbar sind.';
 
 $txt['help_registrations'] = '
